@@ -1,0 +1,19 @@
+{
+  "name": "boxcompute",
+  "version": "0.1.0",
+  "description": "Create and drive BoxCompute sandbox VMs from Cursor: run commands, read and edit files, and open public preview URLs. Signs in with OAuth.",
+  "author": {
+    "name": "BoxCompute"
+  },
+  "homepage": "https://boxcompute.ai",
+  "repository": "https://github.com/boxcompute/cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "sandbox",
+    "vm",
+    "mcp",
+    "cloud",
+    "devtools"
+  ],
+  "logo": "assets/logo.svg"
+}

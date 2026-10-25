@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "boxcompute": {
+      "url": "https://mcp.boxcompute.ai/mcp"
+    }
+  }
+}
